@@ -1,0 +1,2 @@
+# Thinker
+pausal game
